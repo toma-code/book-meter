@@ -7,4 +7,4 @@
 ## 読んだ本
 
 - 良いコード悪いコードで学ぶ設計入門
-  - [リンク](url)
+  - [リンク](https://github.com/toma-code/book-meter/blob/4fb36ec1c94b03808c3d663a7ee2b29d62c33807/BookList/%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E6%82%AA%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%AD%A6%E3%81%B6%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80.md)
