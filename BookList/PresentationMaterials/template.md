@@ -84,6 +84,10 @@ section table td img {
   margin: 0 auto;
 }
 
+section.chapter {
+  text-align: center;
+}
+
 header {
   width: 95%;
   padding: 10px;
@@ -107,12 +111,16 @@ header {
 
 <!-- _header: この発表の流れ -->
 
-# 1.
+# 1.ヘッダー
 
 ---
 
-<!-- _header: 1. -->
+<!-- _class: chapter -->
 
-# 1.
+# ヘッダー
 
 ---
+
+<!-- _header: 1.ヘッダー -->
+
+# 1.
